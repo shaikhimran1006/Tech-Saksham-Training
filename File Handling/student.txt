@@ -1,0 +1,18 @@
+ /n Name :Shaikh Imran  /n Class :T.Y /n rool_number: 51 /n age:20 
+ Name :Shaikh Imran 
+ Class :T.Y 
+ rool_number: 51 
+ age:19Name :imran
+ Class :T.Y
+ rool_number: 51
+ age:90
+Name :Imran shaikh
+ Class :fy
+ rool_number: 521
+ age:54
+
+Name :imran
+ Class :sy
+ rool_number: 51
+ age:45
+ ************
