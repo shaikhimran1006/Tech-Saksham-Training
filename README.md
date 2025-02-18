@@ -40,5 +40,3 @@ I am currently enrolled in the **IR 4.0 Foundation Course**, which focuses on Li
 - **Student Management System** (MySQL + Python Integration)
 - **Financial Data Analysis** (Pandas & Matplotlib)
 - **Retail Sales Dashboard** (Data Visualization in Python)
-
-This course is helping me gain **practical experience** and build a **strong portfolio** for future opportunities. Stay tuned for my progress updates! 🚀
