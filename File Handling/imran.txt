@@ -3,5 +3,3 @@ Name :Shaikh Imran SHaikh Ibrahim
  Collge :WIT Solapur
  hobby: Playing
 Here’s a dummy paragraph for you:
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla facilisi. Suspendisse potenti. Fusce id quam vel tortor faucibus tincidunt. Integer varius, turpis ut pharetra consequat, felis sapien cursus odio, sit amet fermentum turpis nisi ac nulla. Aenean non magna vel justo scelerisque fermentum. Proin eget orci ut nunc posuere elementum. Nam eget velit ut ligula venenatis tincidunt. Sed accumsan, sapien ut consequat malesuada, risus nunc convallis ex, at euismod elit mi nec libero.
