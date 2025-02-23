@@ -39,4 +39,4 @@ I am currently enrolled in the **IR 4.0 Foundation Course**, which focuses on Li
 - **Simple Banking System** (OOP in Python)
 - **Student Management System** (MySQL + Python Integration)
 - **Financial Data Analysis** (Pandas & Matplotlib)
-- **Retail Sales Dashboard** (Data Visualization in Python)
+- **Retail Sales Dashboard** (Data Visualization in Python using seaborn)
